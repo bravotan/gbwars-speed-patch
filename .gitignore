@@ -1,0 +1,8 @@
+.DS_Store
+*.gb
+*.gbc
+*.sav
+*.ram
+*.sn*
+*.log
+*.class
